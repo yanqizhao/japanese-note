@@ -2,6 +2,12 @@
 
 日语学习记录。
 
+## 50音
+
+[50音]()
+
+## 新标日初级
+
 [助词](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A/%E5%8A%A9%E8%AF%8D.md)
 
 [动词](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A/%E5%8A%A8%E8%AF%8D.md)
