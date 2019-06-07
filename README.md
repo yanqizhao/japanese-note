@@ -4,7 +4,7 @@
 
 ## 50音
 
-[50音]()
+[50音](https://github.com/yanqizhao/japanese-note/blob/develop/50%E9%9F%B3.md)
 
 ## 新标日初级
 
