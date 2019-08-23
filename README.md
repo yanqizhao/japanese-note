@@ -8,6 +8,10 @@
 
 ## 新标日初极下
 
+[1-48课尾高型词](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E4%B8%8B/1-48%E8%AF%BE%E5%B0%BE%E9%AB%98%E5%9E%8B%E8%AF%8D.md)
+
+[1-48课总结](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E4%B8%8B/1-48%E8%AF%BE%E6%80%BB%E7%BB%93.md)
+
 [1-48课动词](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E4%B8%8B/1-48%E8%AF%BE%E5%8A%A8%E8%AF%8D.md)
 
 [1-48课助词](https://github.com/yanqizhao/japanese-note/blob/develop/%E6%96%B0%E6%A0%87%E6%97%A5%E5%88%9D%E7%BA%A7%E4%B8%8A%E4%B8%8B/1-48%E8%AF%BE%E5%8A%A9%E8%AF%8D.md)
