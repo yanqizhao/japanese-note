@@ -1,3 +1,5 @@
+[TOC]
+
 # japanese-note
 
 日语学习记录。
